@@ -1,4 +1,8 @@
 
+
+# ⚠️⚠️⚠️THIS AI'S LANGUAGE HAS NOT BEEN AUDITED SO IT MIGHT GAVE YOU A GOOFY RESPONSE OR NONSENSE
+
+
 # 🧠 GenZ Bot Fine-Tuning Script
 
 Welcome to the **GenZ Bot** fine-tuner — a glorious Python script that unleashes fine-tuning fury on **GPT-Neo 125M** using the Wikitext-2 dataset.
